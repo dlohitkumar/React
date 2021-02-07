@@ -1,0 +1,37 @@
+{
+  "users": [
+    {
+      "FirstName": "D Lohit",
+      "LastName": "Kumar",
+      "UserName": "dlk",
+      "Age": "24",
+      "Salary": "21232.02",
+      "id": "3"
+    },
+    {
+      "FirstName": "D Lohit",
+      "LastName": "Kumar",
+      "UserName": "dlk",
+      "Age": "24",
+      "Salary": "21232.02",
+      "id": "4"
+    },
+    {
+      "Firstname": "",
+      "LastName": "Kumar",
+      "UserName": "dlk",
+      "Age": "24",
+      "Salary": "21232.02",
+      "FirstName": "D Lohit",
+      "id": "Uf1m-sS"
+    },
+    {
+      "FirstName": "D NAGA VENKATA",
+      "LastName": "SATYANARAYANA",
+      "UserName": "satya",
+      "Age": "54",
+      "Salary": "40000",
+      "id": "Wyq3S4d"
+    }
+  ]
+}
